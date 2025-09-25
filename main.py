@@ -1,2 +1,3 @@
 print("Hello from Main branch!")
-print("This is version 1.0")
+print("Fixed file in main branch")
+print("This is version 2.0")
