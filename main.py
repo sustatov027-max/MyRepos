@@ -1,3 +1,5 @@
 print("Hello from Main branch!")
 print("Fixed file in main branch")
-print("This is version 2.0")
+print("This is version 2.0)
+print("Hello from lab3_branch branch!")
+print("Added new line")
